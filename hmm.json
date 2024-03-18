@@ -33,7 +33,7 @@
     {
       "name": "hxcpp",
       "type": "haxelib",
-      "version": "4.2.1"
+      "version": "4.3.2"
     },
     {
       "name": "tjson",
@@ -50,7 +50,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/SPLCoding/hxCodec-but-it-works-xd"
+      "url": "https://github.com/polybiusproxy/hxCodec"
     },
     {
       "name": "SScript",
@@ -74,7 +74,7 @@
       "type": "git",
       "dir": null,
       "ref": "master",
-      "url": "https://github.com/Sirox228/linc_luajit"
+      "url": "https://github.com/superpowers04/linc_luajit"
     }
   ]
 }
